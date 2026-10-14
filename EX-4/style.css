@@ -1,8 +1,12 @@
 div{
     width:500px;
     height: 800px;
-    border: 2px solid black;
-    margin: auto  
+    border: 2px solid blue;
+    margin: auto;
+    background-color: lightblue;
+}
+body{
+    background-color: lightgray;
 }
 div table{
     width: 100%;
